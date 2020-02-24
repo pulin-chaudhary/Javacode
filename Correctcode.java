@@ -1,4 +1,4 @@
-public class AddTwoNumbers {
+public class Correctcode {
 
    public static void main(String[] args) {
         
